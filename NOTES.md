@@ -22,3 +22,7 @@ DO 5 i = 1.25
 > PL/1(Programming Language 1)
 
 > IF ELSE THEN THEN = ELSE; ELSE ELSE = THEN
+> 
+> Regular languages
+  Regular expresion
+  formal languages
