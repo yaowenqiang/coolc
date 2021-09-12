@@ -46,3 +46,10 @@ A finite automaton consits of
 > Deterministic Finite Automata(DFA)
 > Nondeterministic Finite Automata(NFA)
 
+> Parsing tree
+> Context-free Gramma(CFG)
+
+> Derivation
+
+# Error handling
+
