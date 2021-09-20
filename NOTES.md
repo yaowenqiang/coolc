@@ -53,3 +53,11 @@ A finite automaton consits of
 
 # Error handling
 
+
+Error kind | Example | Detected by ...
+Lexical | ...$... | Lexer
+Syntax | ...x*%... | parser
+Semantic | ...int x; y = x(3);...  Type checker
+Correctness | your favorite program | Tester/User
+
+> Bison
