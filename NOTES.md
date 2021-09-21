@@ -61,3 +61,21 @@ Semantic | ...int x; y = x(3);...  Type checker
 Correctness | your favorite program | Tester/User
 
 > Bison
+
+
+# Predictive Parsing
+
+C and C++ programs have many storage bugs
+
++ forgetting to free unusaed memory
++ dereferencing a dangling pointer
++ overwriting parts of a data structure by accident
++ and so on
+
+Storage bugs are hard to find
+
++ a bug can lead to a visible effect for aswy in time and program text from the source
+
+# Automatic Memory Management(gc)
+> Java Coercions
+
